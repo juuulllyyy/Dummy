@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jermzu\\source\\repos\\MoneyGer\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\MoneyGer\\MoneyGer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170617E4-2DEF-45C3-AEF9-456F4B74FCDE}|moneyger.client\\moneyger.client.esproj|c:\\moneyger\\moneyger\\moneyger.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{170617E4-2DEF-45C3-AEF9-456F4B74FCDE}|moneyger.client\\moneyger.client.esproj|solutionrelative:moneyger.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\MoneyGer\\MoneyGer\\moneyger.client\\tailwind.config.js",
+              "RelativeDocumentMoniker": "moneyger.client\\tailwind.config.js",
+              "ToolTip": "C:\\MoneyGer\\MoneyGer\\moneyger.client\\tailwind.config.js",
+              "RelativeToolTip": "moneyger.client\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-02T04:09:54.765Z",
+              "EditorCaption": ""
             }
           ]
         },

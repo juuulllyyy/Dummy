@@ -17,7 +17,7 @@ export class LoginComponent implements OnInit {
     this.titleService.setTitle('MoneyGer Login');
   }
 
-  navigateToSignup(): void {
-    this.router.navigate(['/signup']);
+  navigateToDashboard(): void {
+    this.router.navigate(['/dashboard']);
   }
 }
